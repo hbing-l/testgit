@@ -4,3 +4,4 @@ test conflict
 add branch dev2
 add branch dev3
 add branch dev4
+fix bug
