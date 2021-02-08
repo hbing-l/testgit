@@ -1,3 +1,4 @@
 test
 add branch dev
 test conflict
+add branch dev2
